@@ -1,7 +1,7 @@
 # Global-Temperature-Analysis
 Excel-based analysis of Global Temperature Change dataset including data cleaning, trend analysis, and dashboard visualization.
 
-🌍 Global Temperature Change Analysis
+#   Global Temperature Change Analysis
 
 # Overview
 
@@ -36,4 +36,3 @@ dashboard.png
 Priya Rathod
 
 
-If you want, I can now help you make your GitHub profile look fully professional like a data analyst portfolio 🚀
